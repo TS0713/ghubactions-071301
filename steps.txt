@@ -1,0 +1,8 @@
+Git Steps 
+
+-   git init
+-   git add README.md
+-   git commit -m "Adding Comment"
+-   git branch -M main (creating main branch)
+-   git remote add origin https://github.com/TS0713/ghubactions-071301.git
+-   git push -u origin main 
